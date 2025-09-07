@@ -7,5 +7,5 @@ Remove Herobrine
 Add a setting to hide XP  
 ~~Add the new sprites Neo made~~  
 Fix offsets of sprites (Roro so doing this I'd rather kms)  
-Create better effects (Edgy can do this not me)  
+~~Create better effects (Edgy can do this not me)~~
 ~~Put Daniel's new run sprites (he made those?)~~
