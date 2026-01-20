@@ -2,4 +2,6 @@
 Read up on what we wanna do on a per week basis.
 
 # To Do
-dead git lol
+make menus mouse operated  
+make legacy gemeplay style  
+add cool roll after air boost
